@@ -1,0 +1,21 @@
+[
+	{ "band": "Opeth", "album": "Blackwater Park", "year": 2001 },
+	{ "band": "Metallica", "album": "Master of Puppets", "year": 1986 },
+	{ "band": "Gojira", "album": "Magma", "year": 2016 },
+	{ "band": "Death", "album": "The sound of perseverance", "year": 1995 },
+	{ "band": "Slipknot", "album": "Iowa", "year": 2001 },
+	{ "band": "Motley Crue", "album": "Dr. Feelgood", "year": 1989 },
+	{ "band": "Pierce the Veil", "album": "Collide with the Sky", "year": 2012 },
+	{ "band": "Sleeping with Sirens", "album": "Feel", "year": 2013 },
+	{ "band": "Heroes del Silencio", "album": "Senderos de Traición", "year": 1990 },
+	{ "band": "Motionless in White", "album": "Disguise", "year": 2019 },
+	{ "band": "Mayhem", "album": "De Mysteriis Dom Sathanas", "year": 1994 },
+	{ "band": "Emperor", "album": "Anthems to the Welkin at Dusk", "year": 1997 },
+	{ "band": "Burzum", "album": "Filosofem", "year": 1996 },
+	{ "band": "Iron Maiden", "album": "The Number of the Beast", "year": 1982 },
+	{ "band": "Pantera", "album": "Vulgar Display of Power", "year": 1992 },
+	{ "band": "Lamb of God", "album": "Ashes of the Wake", "year": 2004 },
+	{ "band": "Judas Priest", "album": "Painkiller", "year": 1990 },
+	{ "band": "System of a Down", "album": "Toxicity", "year": 2001 },
+	{ "band": "Nightwish", "album": "Once", "year": 2004 }
+]
